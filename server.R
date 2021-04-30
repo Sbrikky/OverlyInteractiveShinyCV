@@ -39,5 +39,5 @@ shinyServer(function(input, output) {
 #   way of choosing one and getting additional information/examples competency style
 #     Ex.: analytic/pragmatic mindset -> the hypthetical case of studying different bus routes (Or spelltoweR if that works)
 #   
-# 
+# Showing development of skills over time taking different shapes. Decreasing growth for R during SBS, compared to Stepwise growth during OP.
 # 
